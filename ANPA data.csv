@@ -58,7 +58,7 @@ Harrisburg,US,NC,Duke Energy,Engineering/ Finance,Lifetime Membership
 Saint Louis,US,MO,Washington University at Saint Louis,Biophysics,Lifetime Membership
 Newport News,US,VA,Old Dominion University,Accelerator Physics,Lifetime Membership
 Boulder,US,CO,"JILA, University of Colorado Boulder","Materials Science, AMO",-
-New York NY USA,US,United States,Brooklyn College and The Graduate Center of CUNY,Semiconductor Physics,Student Membership
+New York,US,NY,Brooklyn College and The Graduate Center of CUNY,Semiconductor Physics,Student Membership
 ,US,NC,Surry College,Physics,-
 Boise,US,Idaho,Boise State University,Biophysics,Lifetime Membership
 Detroit,US,MI,Wayne State University,Biophysics,-
@@ -138,7 +138,6 @@ Miami,US,FL,Florida International University,Nanomaterials/Physics Education,Lif
 Marietta,US,GA,Georgia State University,Biological Physics,Lifetime Membership
 Newark,US,NJ,New Jersey Institute of Technology,Space Physics,Lifetime Membership
 Newport News,US,VA,Virginia Tech,Nuclear/Particle Physics,Regular Membership
-Baglung,NP,Gandaki State,Tribhuvan University,"Data Science, Solid State Physics, Astrophysics",-
 Orlando,US,FL,University of Central Florida,Physics-(Ultrafast lasers),-
 Scranton,US,PA,The University of Scranton,Space Physics,-
 Johnson City,US,NEW YORK,Binghamton University,Computational condensed matter physics,Student Membership
@@ -249,8 +248,8 @@ Lexington,US,Kentucky,University of Kentucky,CMP/HEP,Student Membership
 West Lafayette,US,Indiana,Purdue University,Condensed Matter Physics,First Time Student
 Vermillion,US,SD,USD,Dark matter,First Time Student
 Brighton,US,AL,Umass Boston,Physics,Student Membership
-Littlerock,US,Arkansas,UALR,Condensed matter physics/ nanotechnology,Student Membership
-Littlerock,US,Arkansas,UALR,Condensed matter physics/ nanotechnology,First Time Student
+Littlerock,US,AR,UALR,Condensed matter physics/ nanotechnology,Student Membership
+Littlerock,US,AR,UALR,Condensed matter physics/ nanotechnology,First Time Student
 Duluth,US,Minnesota,University of Minnesota Duluth,Condensed matter physics,First Time Student
 New Orleans,US,Lousiana,Tulane university,Quantum information and Machine learning,First Time Student
 Louisville,US,Kentucky,University of Louisville,Condensed Matter Physics,First Time Student
@@ -265,7 +264,7 @@ Denton,US,Texas,University of North Texas,Condensed Matter,First Time Student
 New York,US,New York,SUNY,Computational and Medical Physics,First Time Student
 Orono,US,Maine,University of Maine,Computational,First Time Student
 Newark,US,Delaware,University of Delaware,Condensed Matter Physics,First Time Student
-Arkansas,US,FAYETEVILLE,University of Arkansas,Physics,First Time Student
+Fayetteville,US,AR,University of Arkansas,Physics,First Time Student
 Baltimore,US,Maryland,"University of Maryland, Baltimore County",Atmospheric Physics,First Time Student
 Huntsville,US,Alabama,The University of Alabama in Huntsville,Space Physics and Aeronomy,First Time Student
 Philadelphia,US,PA,Thomas Jefferson University,Biomedical Imaging,Regular Membership
@@ -371,12 +370,11 @@ Philadelphia,US,Pennsylvania,Penn State Brandywine,Particle Physics,General Term
 Philadelphia,US,PA,Temple University,Computational Condensed matter/biophysics,Student Membership
 Avondale Estates,US,Georgia,Clark Atlanta University,Physics,First Time Student
 Athens,US,Ohio,Ohio University,Physics,First Time Student
-Jhapa,NP,1,M.Sc,Condensed matter physics,Student Membership
 Lafayette,US,LA,UL Lafayette,Astrophysics,First Time Student
 Elmhurst,US,NY,LaGuardia Community College,Computer Science,First Time Student
 Boise,US,ID,N/A,Data Science,Regular Membership
 Tallahassee,US,FL,Florida State Universy,Physics,First Time Student
 Philadelphia,US,Pennsylvania,Temple University,Physics,First Time Student
 Golden,US,Colorado,Colorado School of Mines,Physics,First Time Student
-Elhhurst,US,New York,Physics Department,Photonics,First Time Student
+Elmhurst,US,NY,Physics Department,Photonics,First Time Student
 Gainesville,US,FL,University of Florida,Physics,First Time Student
